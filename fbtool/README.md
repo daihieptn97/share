@@ -1,3 +1,0 @@
-# Auto Tym or like ...
-
-

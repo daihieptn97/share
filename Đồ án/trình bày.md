@@ -10,7 +10,7 @@ Khi đi mua điện thoại tại các của hàng hay là các siêu thị thì
 
 - Bọn em thấy việc tích hợp hai ứng dụng bảo vệ thiết bị và phát video quảng cáo là việc cần thiết và rất hợp lý 
 
-### Slide2
+### slide còn lại
 
 Bọn em phát triển ứng dụng với các chức năng để khắc phục các nhược điểm trên, ứng dụng của bọn em gồm các chức năng:
 - **Chức năng bảo vệ thiết bị và cảnh báo trộm**

@@ -1,0 +1,35 @@
+test
+ ở chế độ đã tối ưu:
+	18% -> 8h16 phút
+	92% -> 16-17 phút.
+		=> 74% -> 16 tiếng
+		
+		
+
+1.	Set time default:
+a.	Thời gian mặc định là không có, ứng dụng sẽ chạy khi app được cài đặt và start.
+2.	Lys do
+a.	Tại sao chúng tôi xây dựng sản phẩm này?
+b.	Hệ thống an ninh được cài đặt để ngăn chặn trường hợp trộm cắp và sạc ổn định các thiết bị được hiển thị trong cửa hàng. Hệ thống an ninh có thể rung chuông báo động cho nhân viên cửa hàng để ngăn chặn trường hợp trộm cắp và có yếu tố hình thức nhỏ hơn để đạt được ít ảnh hưởng đến trải nghiệm của khách hàng. Tuy nhiên, trong các cửa hàng vận hành và bán lẻ, hệ thống bảo mật hình thức cồng kềnh được triển khai, do đó, nó không chỉ cản trở trải nghiệm của khách hàng mà còn hiển thị nhất quán trong các cửa hàng. Hơn nữa, hệ thống an ninh hiện tại có sự phụ thuộc vào các nhà cung cấp bảo mật bằng hộp điều khiển công suất. Chúng tôi hy vọng sẽ cung cấp trải nghiệm khách hàng nâng cao với cáp bảo mật mới.
+c.	Mục tiêu
+d.	Ứng dụng Galaxykeeper được cài đặt trong thiết bị được hiển thị. Nó nhận ra cáp bảo mật thông qua giao tiếp PDIC và thông báo tình huống khi cáp bị cắt hoặc ngắt kết nối bằng cách rung chuông báo động. Ngoài ra, nó chặn tất cả các chức năng của thiết bị bị đánh cắp không được sử dụng.
+e.	
+f.	Các tính năng chính
+g.	1) Nhận biết phần đính kèm và tháo cáp bảo mật khỏi thiết bị thông qua giao tiếp PDIC.
+h.	2) Ở chế độ trộm, thiết bị đổ chuông báo động và màn hình và các phím mềm bị khóa. Ngoài ra, flash của nhị phân S / W cũng bị chặn bằng cách sử dụng công cụ.
+i.	3) Khi vào chế độ trộm vì báo động sai hoặc trục trặc, có thể xử lý bằng cách gắn thẻ NFC. Trong trường hợp thiết bị không hỗ trợ mô-đun NFC, cách mới sẽ được áp dụng để hoàn thành chế độ trộm.
+
+
+- Công nghệ asyn video:
+	get file trong hẹ thống ra -> sort lại -> tính thời gian tổng -> độ chính sác, cách đọc file của các máy có sự khác biệt.
+
+không ảnh hưởng gì đến pin, đến hiệu năng
+Nói về NFC
+giao diện của bọn em ...
+
+------
+Nhấn mạnh về asyn video - thuật toán sinh video
+nhấn mạnh về kết quả test
+
+giả pháp này bọn em muốn dev lại. theo như bọn em được biết thì nó là hai giải pháp riêng biệt và cá nhân bọn em thì nghĩ có thể tích hợp nó vào làm một
+chia phần

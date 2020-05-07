@@ -49,6 +49,8 @@ Bọn em phát triển ứng dụng với các chức năng để khắc phục 
 - **Chức năng cài đặt thời gian phát và dừng phát video - chức năng này nhằm tránh việc làm tốn tài nguyên hệ thống như pin, chip, ram ...**
 - **Đăng nhập (chính là bước kích hoạt ứng dụng), đăng xuất (hủy kích hoạt ứng dụng)**
 
+- ** Biểu đồ sử dụng pin, tests trên 5h 20h và 40h sử dụng **
+- ** Biểu đồ sử dụng ram trên các thiết bị ram 3gb, 4gb, 6gb, và 8gb **
 ....
 - Chức năng bảo vệ thiết bị(điện thoại đang ở chế độ oke, config các thứ oke).
 			

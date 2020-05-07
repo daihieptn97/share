@@ -15,6 +15,12 @@ Khi đi mua điện thoại tại các của hàng hay là các siêu thị thì
 Bọn em phát triển ứng dụng với các chức năng để khắc phục các nhược điểm trên, ứng dụng của bọn em gồm các chức năng:
 - **Chức năng bảo vệ thiết bị và cảnh báo trộm**
 	- ứng dụng của bọn em chỉ được chạy khi ứng dụng đang được cắm cáp kết nối.  
+		- không thể xóa
+		- không thể tắt nguồn, không thể khởi động lại
+		- không thể kill app
+		- không thể bị remove admin
+		
+		
 	- khi người dùng rút cáp ra ứng dụng sẽ phát động kêu cảnh báo và khi đó màn hình và các nút bấm đề được khóa lại. (tránh trường hợp người dùng cho nhỏ âm lượng, hay tắt thiết bị khi đang bị cảnh báo)
 	- [cắm thiết bị]
 	- Ứng dụng của chúng em có hai lớp khóa, lớp khóa thứ nhất là mật khẩu ở dạng text, và lớp khóa thử hai là thẻ NFC. nhằm nâng cao tính bảo mật

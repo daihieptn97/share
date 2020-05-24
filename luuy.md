@@ -1,0 +1,15 @@
+### lưu ý:
+- Lý do chọn đề tài :
+	- ứng dụng tích hợp hai ứng dụng
+	- thay thể control box giảm chi phí
+- Kết luận
+	- công việc làm đc: 
+		- nắm đc kiến thức android
+		- làm việc tỏng môi trường chuyên nghiệp
+		- tìm hiểu và giải quyết đc các vấn đề android security
+	- Hướng phát triển :
+		- triển khai server
+	- Hạn chế
+		-  chỉ sử dụng được trên các thiết bị samsung
+		- không thể sử dụng các cáp khác thay thể
+		- việc đọc video chưa tự động

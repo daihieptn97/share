@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60bf3af3-3834-4ffc-8cf8-2f12469f5fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRAN DAI HIEP CV.doc" beforeDir="false" afterPath="$PROJECT_DIR$/TRAN DAI HIEP CV.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRAN DAI HIEP CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TRAN DAI HIEP CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BC_060721.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/BC_060721.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +21,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1etJJNlJr00cOl8kCh29Fqe46di" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -64,6 +65,7 @@
       <workItem from="1621573756104" duration="2104000" />
       <workItem from="1622984505941" duration="63000" />
       <workItem from="1622984622620" duration="68000" />
+      <workItem from="1625464748293" duration="98000" />
     </task>
     <servers />
   </component>
@@ -81,5 +83,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60bf3af3-3834-4ffc-8cf8-2f12469f5fa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BC_060721.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/BC_060721.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mục lục.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,7 @@
       <workItem from="1622984505941" duration="63000" />
       <workItem from="1622984622620" duration="68000" />
       <workItem from="1625464748293" duration="98000" />
+      <workItem from="1630371334508" duration="173000" />
     </task>
     <servers />
   </component>
